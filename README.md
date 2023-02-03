@@ -1,4 +1,4 @@
-# twwai-kol2
+# twwai-kol2 KOLOKWIUM W ZIPIE
 
 1. Zbudowanie (uzupełnienie) aplikacji - serwer z 2 ścieżkami.
 - GET - pobranie wszystkich odczytów
